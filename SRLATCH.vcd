@@ -1,0 +1,40 @@
+$date
+	Fri Sep  4 14:52:03 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module SRLATCH_tb $end
+$scope module dut $end
+$var wire 1 ! Q $end
+$var wire 1 " Qbar $end
+$var wire 1 # R $end
+$var wire 1 $ S $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+1"
+1!
+$end
+#5
+0!
+1#
+1$
+#15
+0#
+#30
+0"
+1!
+1#
+0$
+#50
+1"
+0#
+#60
